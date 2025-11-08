@@ -1,4 +1,5 @@
 # TRADEMARK GUIDELINES
+evaze
 
 This document outlines the policy for allowable uses of trademarks owned by Bitwarden, Inc.
 (“Bitwarden") by other parties.
